@@ -1,0 +1,80 @@
+body{
+    background: linear-gradient(rgb(85, 39, 39), gold);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table{
+    background-color: white;
+    margin: auto;
+    text-align: top center;
+}
+
+.titre-background{
+    background-color: black;
+    color: white;
+}
+
+.titre-synopsis{
+    text-align: left;
+}
+
+
+
+.titre-distribution{
+    background-color: gold;
+    text-align: left;
+}
+
+td{
+    width: 60px;
+}
+
+.titre-liste{
+list-style: none;
+}
+
+.contenue-liste{
+list-style-type: disc;
+}
+
+.photoActeur{
+    width: 80px;
+ height: 80px;
+ margin: 10px;
+ border-radius: 40px;
+ background-size: cover;
+ background-repeat: no-repeat;
+ display: inline-block;
+
+}
+
+.acteur1{
+    background-image: url(../images/Elijah_Wood.png);
+}
+
+.acteur2{
+    background-image: url(../images/Ian_McKellen.png);
+}
+
+.acteur3{
+    background-image: url(../images/John_RhysDavies.png);
+}
+
+.acteur4{
+    background-image: url(../images/Orlando_Bloom.png);
+}
+
+.acteur5{
+    background-image: url(../images/Sean_Astin.png);
+}
+
+.acteur6{
+    background-image: url(../images/Sean_Bean.png);
+}
+
+.acteur7{
+    background-image: url(../images/Viggo_Mortensen.png);
+}
