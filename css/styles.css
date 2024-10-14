@@ -20,9 +20,9 @@ table{
 .titre-synopsis{
     text-align: left;
 }
-
-
-
+.personnage-acteur{
+    color: brown;
+}
 .titre-distribution{
     background-color: gold;
     text-align: left;
