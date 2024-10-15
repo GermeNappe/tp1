@@ -22,6 +22,7 @@ table{
 }
 .personnage-acteur{
     color: brown;
+    font-style: italic;
 }
 .titre-distribution{
     background-color: gold;
@@ -32,10 +33,14 @@ td{
     width: 60px;
 }
 
-.titre-liste{
+.parametre-liste{
 list-style: none;
-}
 
+}
+.titre-source-et-autres-films{
+    font-style: bold;
+    font-weight: bold;
+}
 .contenue-liste{
 list-style-type: disc;
 }
